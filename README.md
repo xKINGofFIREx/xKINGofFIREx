@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xKINGofFIREx
-- 👀 I’m interested in programming in Java
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in programming in С++
+- 🌱 I’m currently learning С++
