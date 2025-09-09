@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xKINGofFIREx
 - 👀 I’m interested in programming in Rust
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Python
